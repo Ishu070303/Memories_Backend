@@ -13,7 +13,8 @@
 - [x] Easy memories creating form
 - [x] Post Details page 😋
 - [x] Functionally Pagination 
-- [x] Comment Section 
+- [x] Comment Section
+- [x] Explore more memories   
 
 
 ## Demo version
