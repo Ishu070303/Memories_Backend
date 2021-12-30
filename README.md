@@ -21,7 +21,7 @@
 </br>
 A demo version is automatically deployed for this repositories:
 
-- Deployment for frontend part - [https://memoriesbringback.netlify.app/posts](https://memoriesbringback.netlify.app/posts)
+- Deployment for frontend part - [https://memoriesbringback.netlify.app](https://memoriesbringback.netlify.app)
 - Deployment for backend part -[https://memoriesbringback.herokuapp.com/0](https://memoriesbringback.herokuapp.com/)
 
 ## Technology Stack 
