@@ -12,6 +12,7 @@
 - [x] posts search with relevent tags and names
 - [x] Easy memories creating form
 - [x] Post Details page 😋
+- [x] Pagination 
 
 
 ## Demo version
