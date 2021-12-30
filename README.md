@@ -12,15 +12,15 @@
 - [x] posts search with relevent tags and names
 - [x] Easy memories creating form
 - [x] Post Details page 😋
-- [x] Pagination 
+- [x] Functionally Pagination 
 
 
 ## Demo version
 </br>
 A demo version is automatically deployed for this repositories:
 
-- Deployment for frontend part -
-- Deployment for backend part - 
+- Deployment for frontend part - [https://memoriesbringback.netlify.app/posts](https://memoriesbringback.netlify.app/posts)
+- Deployment for backend part -[https://memoriesbringback.herokuapp.com/0](https://memoriesbringback.herokuapp.com/)
 
 ## Technology Stack 
 </br>
